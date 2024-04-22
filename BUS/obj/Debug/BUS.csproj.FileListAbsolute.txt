@@ -1,0 +1,55 @@
+D:\LTWindow\Demo_3lop\BUS\bin\Debug\BUS.dll
+D:\LTWindow\Demo_3lop\BUS\bin\Debug\BUS.pdb
+D:\LTWindow\Demo_3lop\BUS\bin\Debug\DAL.dll
+D:\LTWindow\Demo_3lop\BUS\bin\Debug\DTO.dll
+D:\LTWindow\Demo_3lop\BUS\bin\Debug\DAL.pdb
+D:\LTWindow\Demo_3lop\BUS\bin\Debug\DTO.pdb
+D:\LTWindow\Demo_3lop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTWindow\Demo_3lop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTWindow\Demo_3lop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\LTWindow\Demo_3lop\BUS\obj\Debug\BUS.dll
+D:\LTWindow\Demo_3lop\BUS\obj\Debug\BUS.pdb
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\bin\Debug\BUS.dll
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\bin\Debug\BUS.pdb
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\bin\Debug\DAL.dll
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\bin\Debug\DTO.dll
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\bin\Debug\DAL.pdb
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\bin\Debug\DTO.pdb
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\obj\Debug\BUS.dll
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\BUS\obj\Debug\BUS.pdb
+D:\Đồ án C#\Demo_3lop\BUS\bin\Debug\BUS.dll
+D:\Đồ án C#\Demo_3lop\BUS\bin\Debug\BUS.pdb
+D:\Đồ án C#\Demo_3lop\BUS\bin\Debug\DAL.dll
+D:\Đồ án C#\Demo_3lop\BUS\bin\Debug\DTO.dll
+D:\Đồ án C#\Demo_3lop\BUS\bin\Debug\DAL.pdb
+D:\Đồ án C#\Demo_3lop\BUS\bin\Debug\DTO.pdb
+D:\Đồ án C#\Demo_3lop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Đồ án C#\Demo_3lop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Đồ án C#\Demo_3lop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Đồ án C#\Demo_3lop\BUS\obj\Debug\BUS.dll
+D:\Đồ án C#\Demo_3lop\BUS\obj\Debug\BUS.pdb
+D:\Đồ án C#\cuahanggiay\BUS\bin\Debug\BUS.dll
+D:\Đồ án C#\cuahanggiay\BUS\bin\Debug\BUS.pdb
+D:\Đồ án C#\cuahanggiay\BUS\bin\Debug\DAL.dll
+D:\Đồ án C#\cuahanggiay\BUS\bin\Debug\DTO.dll
+D:\Đồ án C#\cuahanggiay\BUS\bin\Debug\DAL.pdb
+D:\Đồ án C#\cuahanggiay\BUS\bin\Debug\DTO.pdb
+D:\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.dll
+D:\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.pdb
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\bin\Debug\BUS.dll
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\bin\Debug\BUS.pdb
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\bin\Debug\DAL.dll
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\bin\Debug\DTO.dll
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\bin\Debug\DAL.pdb
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\bin\Debug\DTO.pdb
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.dll
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\BUS\obj\Debug\BUS.pdb

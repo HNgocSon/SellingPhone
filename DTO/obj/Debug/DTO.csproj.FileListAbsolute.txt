@@ -1,0 +1,24 @@
+D:\LTWindow\Demo_3lop\DTO\bin\Debug\DTO.dll
+D:\LTWindow\Demo_3lop\DTO\bin\Debug\DTO.pdb
+D:\LTWindow\Demo_3lop\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\LTWindow\Demo_3lop\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\LTWindow\Demo_3lop\DTO\obj\Debug\DTO.dll
+D:\LTWindow\Demo_3lop\DTO\obj\Debug\DTO.pdb
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\DTO\bin\Debug\DTO.dll
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\DTO\bin\Debug\DTO.pdb
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\DTO\obj\Debug\DTO.dll
+D:\CDTH21WebD_LTWindow_ThemXoaSua(NangCao)\Demo_3lop\DTO\obj\Debug\DTO.pdb
+D:\Đồ án C#\cuahanggiay\DTO\bin\Debug\DTO.dll
+D:\Đồ án C#\cuahanggiay\DTO\bin\Debug\DTO.pdb
+D:\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.dll
+D:\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.pdb
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\DTO\bin\Debug\DTO.dll
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\DTO\bin\Debug\DTO.pdb
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.dll
+C:\Users\SONY\Desktop\Đồ án C#\cuahanggiay\DTO\obj\Debug\DTO.pdb
